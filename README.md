@@ -19,9 +19,9 @@ Currently building productivity tools, browser extensions, and CLI utilities.
 ## 🛠️ Recent Builds
 
 <!-- RECENT_BUILDS:START -->
-- **[flowstate-cli](https://github.com/cyphalle/flowstate-cli)** — Play random albums from Flow State newsletter for focused work
-- **[linkedinDoomscrollBlocker](https://github.com/cyphalle/linkedinDoomscrollBlocker)** — Chrome extension to block LinkedIn doom scrolling
+- **[flowstate-cli](https://github.com/cyphalle/flowstate-cli)** — Play a random album from the Flow State newsletter — perfect music for focused work
 - **[menubar-show-hide](https://github.com/cyphalle/menubar-show-hide)** — Simple CLI to toggle macOS menu bar visibility
+- **[linkedinDoomscrollBlocker](https://github.com/cyphalle/linkedinDoomscrollBlocker)** — Chrome extension to block doom scrolling on LinkedIn
 <!-- RECENT_BUILDS:END -->
 
 ## 🚀 Featured Projects
