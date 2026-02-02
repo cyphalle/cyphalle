@@ -1,61 +1,49 @@
-<div align="center">
-
 # Hey, I'm Cyprien 👋
 
-**Builder & Maker** — I ship tools that solve real problems.
+📍 **Paris** | 🛠️ **Builder & Maker** | 🚀 **[Darwin Data](https://darwindata.ai)**
 
-Currently building productivity tools, browser extensions, and CLI utilities.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Chrome](https://img.shields.io/badge/-Chrome_Extensions-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/CyprienHalle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprien-halle/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/cyphalle.bsky.social)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://thefinchdarwin.substack.com/)
-[![Website](https://img.shields.io/badge/Darwin_Data-000000?style=for-the-badge&logo=safari&logoColor=white)](https://darwindata.ai)
+> I ship tools that solve real problems. Productivity apps, browser extensions, CLI utilities — if it makes life easier, I'll build it.
 
-</div>
+## Current Projects
 
----
+- 🎵 **[flowstate-cli](https://github.com/cyphalle/flowstate-cli)** — Play random albums from Flow State newsletter for focused work
+- 🛑 **[linkedinDoomscrollBlocker](https://github.com/cyphalle/linkedinDoomscrollBlocker)** — Chrome extension to block doom scrolling on LinkedIn
+- 🦋 **[Butterfly](https://github.com/cyphalle/Butterfly)** — Chrome plugin to capture LinkedIn posts to Notion
+- 🖥️ **[menubar-show-hide](https://github.com/cyphalle/menubar-show-hide)** — Simple CLI to toggle macOS menu bar visibility
+- 🎮 **[hero-quest](https://github.com/cyphalle/hero-quest)** — Terminal-based Hero Quest board game with AI-controlled monsters
+- 📚 **[vibe-reading](https://github.com/cyphalle/vibe-reading)** — Reading list and book recommendations
+- ☁️ **[clean-icloud](https://github.com/cyphalle/clean-icloud)** — Utility to clean up iCloud storage
+- ✅ **[gh2todoist](https://github.com/cyphalle/gh2todoist)** — Sync GitHub issues to Todoist
 
-## 🛠️ Recent Builds
+## GitHub Activity
 
-<!-- RECENT_BUILDS:START -->
-- **[flowstate-cli](https://github.com/cyphalle/flowstate-cli)** — Play a random album from the Flow State newsletter — perfect music for focused work
-- **[menubar-show-hide](https://github.com/cyphalle/menubar-show-hide)** — Simple CLI to toggle macOS menu bar visibility
-- **[linkedinDoomscrollBlocker](https://github.com/cyphalle/linkedinDoomscrollBlocker)** — Chrome extension to block doom scrolling on LinkedIn
-<!-- RECENT_BUILDS:END -->
+![GitHub Contribution Graph](https://ghchart.rshah.org/cyphalle)
 
-## 🚀 Featured Projects
+## What I'm Building
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [flowstate-cli](https://github.com/cyphalle/flowstate-cli) | 🎵 Music for focused work | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [linkedinDoomscrollBlocker](https://github.com/cyphalle/linkedinDoomscrollBlocker) | 🛑 Anti-doomscroll extension | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [Butterfly](https://github.com/cyphalle/Butterfly) | 🦋 LinkedIn → Notion capture | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| [hero-quest](https://github.com/cyphalle/hero-quest) | 🎮 Terminal board game with AI | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) |
+- **Productivity tools** — CLI utilities and automations to stay focused
+- **Browser extensions** — Fighting doom scrolling, one extension at a time
+- **macOS apps** — Native tools that integrate with the Apple ecosystem
+- **AI experiments** — Exploring how AI can augment daily workflows
 
-## 💻 Tech Stack
+## Connect
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyphalle&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyphalle&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyphalle&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</div>
+[![Twitter](https://img.shields.io/badge/-@CyprienHalle-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/CyprienHalle)
+[![LinkedIn](https://img.shields.io/badge/-Cyprien_Halle-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprien-halle/)
+[![Bluesky](https://img.shields.io/badge/-cyphalle-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/cyphalle.bsky.social)
+[![Substack](https://img.shields.io/badge/-Newsletter-FF6719?style=flat-square&logo=substack&logoColor=white)](https://thefinchdarwin.substack.com/)
+[![Website](https://img.shields.io/badge/-darwindata.ai-000000?style=flat-square&logo=safari&logoColor=white)](https://darwindata.ai)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cyphalle)
 
 ---
 
-<div align="center">
-
-**Currently building something new. Stay tuned.**
-
-</div>
+> "Ship beats perfect" — I build tools to solve my own problems, then share them with the world.
