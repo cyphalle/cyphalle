@@ -22,10 +22,10 @@ Building **[Darwin](https://darwindata.ai)** — the biodiversity data platform 
 ## Background
 
 - **Co-founder & CPTO** @ Darwin (2021-present)
-- **Investment Director** @ Samaipata VC (B2B SaaS Venture Capital)
-- **Strategy Consultant** @ L.E.K. Consulting (Private Equity)
-- **Software Engineer** @ Parrot (Embedded automotive systems)
-- 🎓 HEI (Msc. Engineering) • ESSEC Business School (Msc. Management) • Bocconi (Msc. Finance)
+- **Investment Director** @ Samaipata VC
+- **Strategy Consultant** @ L.E.K. Consulting
+- **Software Engineer** @ Parrot (drones)
+- 🎓 HEI (Engineering) • ESSEC Business School • Bocconi
 
 ## Side Projects
 
@@ -37,7 +37,7 @@ Building **[Darwin](https://darwindata.ai)** — the biodiversity data platform 
 
 ## GitHub Activity
 
-<img src="https://ghchart.rshah.org/cyphalle" alt="GitHub Contribution Graph"/>
+<img src="https://ghchart.rshah.org/238636/cyphalle" alt="GitHub Contribution Graph"/>
 
 ## Connect
 
