@@ -2,11 +2,13 @@
 
 📍 **Paris** | 🌿 **Co-founder & CPTO @[Darwin](https://darwindata.ai)** | 🔬 **Biodiversity Tech**
 
-\![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-\![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-\![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-\![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
-\![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
+</p>
 
 ## What I'm Working On
 
@@ -35,13 +37,15 @@ Building **[Darwin](https://darwindata.ai)** — the biodiversity data platform 
 
 ## GitHub Activity
 
-\![GitHub Contribution Graph](https://ghchart.rshah.org/cyphalle)
+<img src="https://ghchart.rshah.org/cyphalle" alt="GitHub Contribution Graph"/>
 
 ## Connect
 
-[\![Twitter](https://img.shields.io/badge/-@CyprienHalle-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/CyprienHalle)
-[\![LinkedIn](https://img.shields.io/badge/-Cyprien_Halle-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprien-halle/)
-[\![Bluesky](https://img.shields.io/badge/-cyphalle-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/cyphalle.bsky.social)
-[\![Substack](https://img.shields.io/badge/-Newsletter-FF6719?style=flat-square&logo=substack&logoColor=white)](https://thefinchdarwin.substack.com/)
-[\![Website](https://img.shields.io/badge/-darwindata.ai-000000?style=flat-square&logo=safari&logoColor=white)](https://darwindata.ai)
-[\![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cyphalle)
+<p>
+  <a href="https://x.com/CyprienHalle"><img src="https://img.shields.io/badge/-@CyprienHalle-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/cyprien-halle/"><img src="https://img.shields.io/badge/-Cyprien_Halle-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://bsky.app/profile/cyphalle.bsky.social"><img src="https://img.shields.io/badge/-cyphalle-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+  <a href="https://thefinchdarwin.substack.com/"><img src="https://img.shields.io/badge/-Newsletter-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack"/></a>
+  <a href="https://darwindata.ai"><img src="https://img.shields.io/badge/-darwindata.ai-000000?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
+  <a href="https://github.com/cyphalle"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
