@@ -29,6 +29,7 @@ Building **[Darwin](https://darwindata.ai)** — the biodiversity data platform 
 
 ## Side Projects
 
+- 📊 **[open-in-google-sheets](https://github.com/cyphalle/open-in-google-sheets)** — macOS app to open CSV/Excel files directly in Google Sheets
 - 🎵 **[flowstate-cli](https://github.com/cyphalle/flowstate-cli)** — Play random albums from Flow State newsletter for focused work
 - 📚 **[vibe-reading](https://github.com/cyphalle/vibe-reading)** — Reading list and book recommendations
 - 🦋 **[Butterfly](https://github.com/cyphalle/Butterfly)** — Chrome plugin to capture LinkedIn posts to Notion
