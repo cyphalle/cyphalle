@@ -2,7 +2,7 @@
 
 I build [Darwin](https://darwindata.ai) — a nature risk intelligence platform that helps companies measure their dependencies and impacts on biodiversity across supply chains. From geospatial analysis to TNFD-aligned reporting, we turn ecological complexity into actionable data.
 
-Before founding Darwin, I invested in 15+ startups as Investment Director at Samaipata VC, advised Fortune 500 companies at L.E.K. Consulting, and wrote embedded software at Parrot. I code our product in Rust, TypeScript, and SQL every day.
+Before founding Darwin, I invested in B2B SaaS startups as Investment Manager at Samaipata VC, advised Corporates and Private Equity funds at L.E.K. Consulting, and wrote embedded software at Parrot. I work on our product in Rust, TypeScript, and SQL every day.
 
 ## What I'm Building
 
