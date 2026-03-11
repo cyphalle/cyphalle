@@ -1,52 +1,44 @@
-# Hey, I'm Cyprien 👋
+# Cyprien Hallé
 
-📍 **Paris** | 🌿 **Co-founder & CPTO @[Darwin](https://darwindata.ai)** | 🔬 **Biodiversity Tech**
+I build [Darwin](https://darwindata.ai) — a nature risk intelligence platform that helps companies measure their dependencies and impacts on biodiversity across supply chains. From geospatial analysis to TNFD-aligned reporting, we turn ecological complexity into actionable data.
 
-<p>
-  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
-</p>
+Before founding Darwin, I invested in 15+ startups as Investment Director at Samaipata VC, advised Fortune 500 companies at L.E.K. Consulting, and wrote embedded software at Parrot. I code our product in Rust, TypeScript, and SQL every day.
 
-## What I'm Working On
+## What I'm Building
 
-Building **[Darwin](https://darwindata.ai)** — the biodiversity data platform helping companies measure and manage their nature-related risks and impacts.
+**[Darwin](https://darwindata.ai)** — Nature risk intelligence for enterprises
 
-- 🌍 **Biodiversity assessment** — Site-level biodiversity metrics and nature-related risk analysis
-- 📊 **TNFD & CSRD compliance** — Helping companies meet emerging disclosure requirements
-- 🗺️ **Nature-Based Risk** — Geospatial analysis of dependencies and impacts on nature
-- 🛡️ **Climate Adaptation** — Understanding how biodiversity connects to resilience
+- 🗺️ Geospatial biodiversity risk analysis (PostGIS + custom raster pipelines)
+- 📊 TNFD & CSRD compliance automation
+- 🔗 Supply chain dependency mapping across 200+ commodities
+- 🤖 AI-powered environmental assessment (AWS Bedrock)
 
-## Background
-
-- **Co-founder & CPTO** @ Darwin (2021-present)
-- **Investment Director** @ Samaipata VC
-- **Strategy Consultant** @ L.E.K. Consulting
-- **Software Engineer** @ Parrot (drones)
-- 🎓 HEI (Engineering) • ESSEC Business School • Bocconi
+**Stack:** Rust/Axum · Vue 3/TypeScript · PostgreSQL/PostGIS · AWS · DDD/Hexagonal architecture
 
 ## Side Projects
 
-- 📊 **[open-in-google-sheets](https://github.com/cyphalle/open-in-google-sheets)** — macOS app to open CSV/Excel files directly in Google Sheets
-- 🎵 **[flowstate-cli](https://github.com/cyphalle/flowstate-cli)** — Play random albums from Flow State newsletter for focused work
-- 📚 **[vibe-reading](https://github.com/cyphalle/vibe-reading)** — Reading list and book recommendations
-- 🦋 **[Butterfly](https://github.com/cyphalle/Butterfly)** — Chrome plugin to capture LinkedIn posts to Notion
-- 🎮 **[hero-quest](https://github.com/cyphalle/hero-quest)** — Terminal-based Hero Quest board game with AI-controlled monsters
-- 🛑 **[linkedinDoomscrollBlocker](https://github.com/cyphalle/linkedinDoomscrollBlocker)** — Chrome extension to block doom scrolling on LinkedIn
+| Project | What it does | Built with |
+|---------|-------------|------------|
+| [awesome-biodiversity-data](https://github.com/cyphalle/awesome-biodiversity-data) | Curated datasets, APIs & tools for nature risk assessment | — |
+| [open-in-google-sheets](https://github.com/cyphalle/open-in-google-sheets) | macOS app to open CSV/Excel directly in Google Sheets | Rust |
+| [hero-quest](https://github.com/cyphalle/hero-quest) | Terminal Hero Quest with AI-controlled monsters | Swift |
+| [Butterfly](https://github.com/cyphalle/Butterfly) | Chrome extension: capture LinkedIn posts to Notion | JS |
+| [flowstate-cli](https://github.com/cyphalle/flowstate-cli) | Play random albums from Flow State for deep work | Python |
+| [linkedinDoomscrollBlocker](https://github.com/cyphalle/linkedinDoomscrollBlocker) | Chrome extension to block LinkedIn doom scrolling | JS |
+| [vibe-reading](https://github.com/cyphalle/vibe-reading) | Structured book analysis framework for non-fiction | — |
 
-## GitHub Activity
+## Background
 
-<img src="https://ghchart.rshah.org/238636/cyphalle" alt="GitHub Contribution Graph"/>
+**Builder** — Co-founder & CPTO @ Darwin (2021–present)
+**Investor** — Investment Director @ Samaipata VC
+**Strategist** — Consultant @ L.E.K. Consulting
+**Engineer** — Embedded software @ Parrot (drones)
+**Education** — HEI Engineering · ESSEC Business School · Bocconi
+
+## Activity
+
+<img src="https://ghchart.rshah.org/238636/cyphalle" alt="GitHub contributions"/>
 
 ## Connect
 
-<p>
-  <a href="https://x.com/CyprienHalle"><img src="https://img.shields.io/badge/-@CyprienHalle-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/cyprien-halle/"><img src="https://img.shields.io/badge/-Cyprien_Halle-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://bsky.app/profile/cyphalle.bsky.social"><img src="https://img.shields.io/badge/-cyphalle-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
-  <a href="https://thefinchdarwin.substack.com/"><img src="https://img.shields.io/badge/-Newsletter-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack"/></a>
-  <a href="https://darwindata.ai"><img src="https://img.shields.io/badge/-darwindata.ai-000000?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
-  <a href="https://github.com/cyphalle"><img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+[𝕏 @CyprienHalle](https://x.com/CyprienHalle) · [LinkedIn](https://www.linkedin.com/in/cyprien-halle/) · [Bluesky](https://bsky.app/profile/cyphalle.bsky.social) · [Newsletter](https://thefinchdarwin.substack.com/) · [darwindata.ai](https://darwindata.ai)
