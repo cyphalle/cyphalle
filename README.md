@@ -15,13 +15,13 @@ AI-native CPTO. I run product and engineering at [Darwin](https://darwindata.ai)
 <sub>Updated 2026-10-07.</sub>
 <!-- numbers:end -->
 
-Most of this work lives in private repositories. The method behind it is being published here over the coming weeks.
+Most of this work lives in private repositories. The method behind it is public.
 
 ## How I run engineering with agents
 
-- **ai-native-cpto**: the operating model. Autonomy by default, the checkpoint after the work, owners who rule on the diff, and a measure behind every rule.
-- **claude-guardrails**: hooks that gate agent actions by tier. An irreversible action needs a human in front of the screen.
-- **claude-skills**: the skills and commands my agents run, from spec to pull request.
+- [ai-native-cpto](https://github.com/cyphalle/ai-native-cpto): the operating model. Autonomy by default, the checkpoint after the work, owners who rule on the diff, and a measure behind every rule.
+- [claude-guardrails](https://github.com/cyphalle/claude-guardrails): hooks that gate agent actions by tier. An irreversible action needs a human in front of the screen.
+- [claude-skills](https://github.com/cyphalle/claude-skills): the skills and commands my agents run, from spec to pull request.
 
 ## Darwin
 
@@ -38,6 +38,7 @@ Stack: Rust/Axum, Vue 3/TypeScript, PostgreSQL/PostGIS, AWS, DDD and hexagonal a
 
 ## Writing
 
+- [Essays on running engineering with agents](https://github.com/cyphalle/ai-native-cpto/tree/main/essays), one new essay most weeks
 - [The Finch](https://thefinchdarwin.substack.com/), newsletter on nature and data
 
 ## Connect
