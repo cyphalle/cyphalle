@@ -20,8 +20,8 @@ Most of this work lives in private repositories. The method behind it is public.
 ## How I run engineering with agents
 
 - [ai-native-cpto](https://github.com/cyphalle/ai-native-cpto): the operating model. Autonomy by default, the checkpoint after the work, owners who rule on the diff, and a measure behind every rule.
-- [claude-guardrails](https://github.com/cyphalle/claude-guardrails): hooks that gate agent actions by tier. An irreversible action needs a human in front of the screen.
-- [claude-skills](https://github.com/cyphalle/claude-skills): the skills and commands my agents run, from spec to pull request.
+- [agent-guardrails](https://github.com/cyphalle/agent-guardrails): hooks that gate agent actions by tier. An irreversible action needs a human in front of the screen.
+- [cpto-skills](https://github.com/cyphalle/cpto-skills): the skills and commands my agents run, from spec to pull request.
 
 ## Darwin
 
