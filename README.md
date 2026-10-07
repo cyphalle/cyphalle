@@ -7,9 +7,9 @@ AI-native CPTO. I run product and engineering at [Darwin](https://darwindata.ai)
 <!-- numbers:start -->
 | Last 30 days | |
 |---|---|
-| Pull requests from my account, most written with agents | 568 |
+| Pull requests from my account, most written with agents | 570 |
 | Merged | 548 (96%) |
-| Contributions, last 12 months | 9,359 |
+| Contributions, last 12 months | 9,384 |
 | People on product and tech | 5 |
 
 <sub>Updated 2026-10-07.</sub>
