@@ -1,44 +1,45 @@
 # Cyprien Hallé
 
-I build [Darwin](https://darwindata.ai) — a nature risk intelligence platform that helps companies measure their dependencies and impacts on biodiversity across supply chains. From geospatial analysis to TNFD-aligned reporting, we turn ecological complexity into actionable data.
+AI-native CPTO. I run product and engineering at [Darwin](https://darwindata.ai) with a small team and a fleet of coding agents, and I still ship code every day.
 
-Before founding Darwin, I invested in B2B SaaS startups as Investment Manager at Samaipata VC, advised Corporates and Private Equity funds at L.E.K. Consulting, and wrote embedded software at Parrot. I work on our product in Rust, TypeScript, and SQL every day.
+## The operating model, in numbers
 
-## What I'm Building
+<!-- numbers:start -->
+| Last 30 days | |
+|---|---|
+| Pull requests from my account, most written with agents | 568 |
+| Merged | 548 (96%) |
+| Contributions, last 12 months | 9,359 |
+| People on product and tech | 5 |
 
-**[Darwin](https://darwindata.ai)** — Nature risk intelligence for enterprises
+<sub>Updated 2026-10-07.</sub>
+<!-- numbers:end -->
 
-- 🗺️ Geospatial biodiversity risk analysis (PostGIS + custom raster pipelines)
-- 📊 TNFD & CSRD compliance automation
-- 🔗 Supply chain dependency mapping across 200+ commodities
-- 🤖 AI-powered environmental assessment (AWS Bedrock)
+Most of this work lives in private repositories. The method behind it is being published here over the coming weeks.
 
-**Stack:** Rust/Axum · Vue 3/TypeScript · PostgreSQL/PostGIS · AWS · DDD/Hexagonal architecture
+## How I run engineering with agents
 
-## Side Projects
+- **ai-native-cpto**: the operating model. Autonomy by default, the checkpoint after the work, owners who rule on the diff, and a measure behind every rule.
+- **claude-guardrails**: hooks that gate agent actions by tier. An irreversible action needs a human in front of the screen.
+- **claude-skills**: the skills and commands my agents run, from spec to pull request.
 
-| Project | What it does | Built with |
-|---------|-------------|------------|
-| [awesome-biodiversity-data](https://github.com/cyphalle/awesome-biodiversity-data) | Curated datasets, APIs & tools for nature risk assessment | — |
-| [open-in-google-sheets](https://github.com/cyphalle/open-in-google-sheets) | macOS app to open CSV/Excel directly in Google Sheets | Rust |
-| [hero-quest](https://github.com/cyphalle/hero-quest) | Terminal Hero Quest with AI-controlled monsters | Swift |
-| [Butterfly](https://github.com/cyphalle/Butterfly) | Chrome extension: capture LinkedIn posts to Notion | JS |
-| [flowstate-cli](https://github.com/cyphalle/flowstate-cli) | Play random albums from Flow State for deep work | Python |
-| [linkedinDoomscrollBlocker](https://github.com/cyphalle/linkedinDoomscrollBlocker) | Chrome extension to block LinkedIn doom scrolling | JS |
-| [vibe-reading](https://github.com/cyphalle/vibe-reading) | Structured book analysis framework for non-fiction | — |
+## Darwin
+
+Darwin is a nature risk intelligence platform. It measures how companies depend on and impact nature and climate across their sites and supply chains, and turns that into TNFD and CSRD reporting.
+Stack: Rust/Axum, Vue 3/TypeScript, PostgreSQL/PostGIS, AWS, DDD and hexagonal architecture.
 
 ## Background
 
-**Builder** — Co-founder & CPTO @ Darwin (2021–present)
-**Investor** — Investment Director @ Samaipata VC
-**Strategist** — Consultant @ L.E.K. Consulting
-**Engineer** — Embedded software @ Parrot (drones)
-**Education** — HEI Engineering · ESSEC Business School · Bocconi
+- Co-founder and CPTO, Darwin (2023 to now)
+- Investment Director, Samaipata VC (4 years)
+- Consultant, L.E.K. Consulting (3 years)
+- Embedded software engineer, Parrot, drones (1 year)
+- MSc in Engineering (CS), Management and Finance: HEI, Bocconi, ESSEC
 
-## Activity
+## Writing
 
-<img src="https://ghchart.rshah.org/238636/cyphalle" alt="GitHub contributions"/>
+- [The Finch](https://thefinchdarwin.substack.com/), newsletter on nature and data
 
 ## Connect
 
-[𝕏 @CyprienHalle](https://x.com/CyprienHalle) · [LinkedIn](https://www.linkedin.com/in/cyprien-halle/) · [Bluesky](https://bsky.app/profile/cyphalle.bsky.social) · [Newsletter](https://thefinchdarwin.substack.com/) · [darwindata.ai](https://darwindata.ai)
+[LinkedIn](https://www.linkedin.com/in/cyprien-halle/) · [X](https://x.com/CyprienHalle) · [Bluesky](https://bsky.app/profile/cyphalle.bsky.social) · [darwindata.ai](https://darwindata.ai)
