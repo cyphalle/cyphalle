@@ -30,9 +30,9 @@ Stack: Rust/Axum, Vue 3/TypeScript, PostgreSQL/PostGIS, AWS, DDD and hexagonal a
 
 ## Background
 
-- Co-founder and CPTO, Darwin (2023 to now)
-- Investment Director, Samaipata VC (4 years)
-- Consultant, L.E.K. Consulting (3 years)
+- Co-founder and CPTO, Darwin (2024 to now)
+- Investment Manager, Samaipata VC (3.5 years)
+- Strategy consultant, L.E.K. Consulting (2 years)
 - Embedded software engineer, Parrot, drones (1 year)
 - MSc in Engineering (CS), Management and Finance: HEI, Bocconi, ESSEC
 
