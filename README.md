@@ -7,12 +7,12 @@ AI-native CPTO. I run product and engineering at [Darwin](https://darwindata.ai)
 <!-- numbers:start -->
 | Last 30 days | |
 |---|---|
-| Pull requests from my account, most written with agents | 677 |
-| Merged | 631 (93%) |
-| Contributions, last 12 months | 12,201 |
+| Pull requests from my account, most written with agents | 664 |
+| Merged | 619 (93%) |
+| Contributions, last 12 months | 13,135 |
 | People on product and tech | 5 |
 
-<sub>Updated 2026-11-02.</sub>
+<sub>Updated 2026-11-09.</sub>
 <!-- numbers:end -->
 
 Most of this work lives in private repositories. The method behind it is public.
